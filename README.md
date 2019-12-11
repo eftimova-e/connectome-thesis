@@ -1,1 +1,1 @@
-# connectome-thesis
+All notebooks use the package #pymaid, which enables getting information about the tracked neurons from CATMAID such as their volume, connections with other neurons, coordinates of the connections etc. Link: https://github.com/schlegelp/PyMaid
